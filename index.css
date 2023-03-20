@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2015/10/18/04/01/background-993817_960_720.jpg");
+    background-size: cover;
+    font-family:  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height:100vh;
+    color:whitesmoke;
+text-shadow: 2px 2px 2px black;
+}
+.container{
+    border:4px solid wheat;
+    border-radius: 5px;
+    
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: pink;
+}
+
+#save-btn {
+    background: salmon;
+}
